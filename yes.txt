@@ -1,0 +1,10 @@
+youtube.com
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+youtube.googleapis.com
+ytimg.com
+googlevideo.com
+r1---sn-*.googlevideo.com
+youtube-nocookie.com
+s.youtube.com
